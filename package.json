@@ -1,0 +1,23 @@
+{
+  "name": "notarization-playground-ts",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "description": "",
+  "main": "dist/index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "main": "ts-node ./src/index.ts",
+    "tsc": "tsc"
+  },
+  "dependencies": {
+    "@iota/iota-interaction-ts": "^0.6.1",
+    "@iota/iota-sdk": "^1.3.0",
+    "@iota/notarization": "^0.0.2"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
