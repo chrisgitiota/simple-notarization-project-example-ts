@@ -1,6 +1,6 @@
 # Simple Notarization TS example
 
-A simple IOAT Notarization example project for typescript
+A simple IOTA Notarization example project for typescript
 
 ## Build & Run
 
